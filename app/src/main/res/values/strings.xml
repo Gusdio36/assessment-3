@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Home Decor</string>
+    <string name="bagikan_template">Nama Dekorasi:\n%1$s\n\nTipe:\n%2$s\n\nHarga:\n%3$s\n\nFoto Barang:\n%4$s</string>
+</resources>
